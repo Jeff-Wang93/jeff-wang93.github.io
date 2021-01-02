@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Identification of the Virtual World"
-date:   2018-01-26 16:27:04 -0800
+date:   2018-01-26
 categories: crypto security keys identification
 ---
 

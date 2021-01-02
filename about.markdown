@@ -1,18 +1,18 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
+Hey there. I'm a simple software developer who lives in sunny Southern 
+California. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'll be using this blog mainly to post about things I find interesting. I'll
+also be writing a lot of semi-random tutorials. It really depends on what
+I'm working on at that moment in time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here's a list of site where you can find more information about me - 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[LinkedIn](https://www.linkedin.com/in/jwang31693) \
+[Github](https://github.com/Jeff-Wang93)
 
-
-[jekyll-organization]: https://github.com/jekyll
+In addition, this site is hosted using Github pages. You can view [the source 
+code here](https://github.com/Jeff-Wang93/jeff-wang93.github.io)
