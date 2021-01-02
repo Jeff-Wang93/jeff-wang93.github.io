@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "The Wonderful World of Hashing"
 date:   2018-01-26
 categories: hashing cryptography security

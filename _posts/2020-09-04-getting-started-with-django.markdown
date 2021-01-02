@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Web Development with Django
 date:   2020-09-04
 categories: django python web development

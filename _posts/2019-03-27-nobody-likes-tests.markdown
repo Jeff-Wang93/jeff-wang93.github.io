@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Let Testing Into Your Life
 date:   2019-03-27 
 categories: testing
