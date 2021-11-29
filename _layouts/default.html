@@ -11,6 +11,14 @@
       display: inline-block;
       margin: 4px 2px;
     }
+    .header {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .to-right{
+      margin-right: 15px;
+      float: right;
+    }
   </style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,24 +36,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
   <body>
-    <div id="header">
-      <nav>
-        <ul>
-          <button class="button" style="float: right;"><a href="{{ "/about.html" }}">About Me</a></button>
-          <button class="button" style="float: right;"><a href="{{ "/index.html" }}">Post Listing</a></button>
-        </ul>
-      </nav>
+    <div id="header" style="text-align: center">
+      <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
     </div><!-- end header -->
 
     <div class="wrapper">
       <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </div>
         {{ content }}
       </section>
       <hr>
-      <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+      <div>
+        <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        <a class="to-right" href="{{ "/index.html" }}">Post Listing</a>
+        <a class="to-right" href="{{ "/about.html" }}">About Me</a>
+      </div>
     </div>
   </body>
 </html>
