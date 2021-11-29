@@ -17,7 +17,7 @@ Here's a list of site where you can find more information about me -
 In addition, this site is hosted using Github pages. You can view [the source 
 code here](https://github.com/Jeff-Wang93/jeff-wang93.github.io)
 
-Feel free to message me regarding any content I post. Whether to appreciate or
-criticize. I'd appreciate it either way.
+Feel free to message me on LinkedIn regarding any content I post. Whether to appreciate or
+criticize, I'd appreciate it either way.
 
 ![](/images/general_images/transparent-sloth.jpg)

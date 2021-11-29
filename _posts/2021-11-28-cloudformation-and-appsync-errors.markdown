@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Detailing an Annoying Issue Regarding CloudFormation and Appsync
-date:   2021-01-03
+date:   2021-11-28
 categories: aws web development cloud troubleshooting
 ---
 ## CloudFormation is both a gift and a curse
